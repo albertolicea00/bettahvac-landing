@@ -58,5 +58,44 @@
     "phone": "(555) 123-4567",
     "email": "info@bettahvac.com",
     "address": "123 Climate Control Ave, Cool City, ST 98765"
-  }
+  },
+  "emergencyPhone": "1-800-911-HVAC",
+  "location": "Lexington, Kentucky",
+  "socialMedia": [
+    { "platform": "facebook", "url": "https://facebook.com/bettahvac", "icon": "fa-brands fa-facebook-f" },
+    { "platform": "instagram", "url": "https://instagram.com/bettahvac", "icon": "fa-brands fa-instagram" },
+    { "platform": "twitter", "url": "https://twitter.com/bettahvac", "icon": "fa-brands fa-twitter" }
+  ],
+  "offers": [
+    {
+      "id": "offer-1",
+      "title": "$50 Off A/C Repair",
+      "description": "Get $50 off any air conditioning repair service. Mention this ad.",
+      "code": "COOL50"
+    },
+    {
+      "id": "offer-2",
+      "title": "Free Inspection",
+      "description": "Free estimate and inspection on new heating or cooling installations.",
+      "code": "FREE24"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How often should I service my HVAC equipment?",
+      "answer": "We recommend scheduling preventative maintenance at least twice a year: once in the spring for the air conditioning and once in the fall for the heating."
+    },
+    {
+      "question": "Do you offer 24/7 emergency service?",
+      "answer": "Yes, our team is available 24 hours a day, 7 days a week to handle any emergency in Lexington and surrounding areas."
+    },
+    {
+      "question": "How long does it take to install a new air conditioning system?",
+      "answer": "Generally, a standard installation takes one business day (8 to 10 hours). However, the time may vary depending on the complexity of the system and necessary modifications."
+    },
+    {
+      "question": "What brands of equipment do you install?",
+      "answer": "We work with the leading and best brands on the market, guaranteeing quality, energy efficiency, and durability in all our installations."
+    }
+  ]
 }

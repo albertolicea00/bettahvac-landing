@@ -239,6 +239,14 @@
     border-radius: var(--radius-md);
     padding: 1.5rem;
     box-shadow: var(--shadow-sm);
+    transition:
+      transform 0.3s ease,
+      box-shadow 0.3s ease;
+  }
+
+  .review-card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-md);
   }
 
   .review-header {
