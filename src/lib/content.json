@@ -1,0 +1,62 @@
+{
+  "companyName": "bettaHVAC",
+  "hero": {
+    "headline": "Comfort You Can Count On",
+    "subheadline": "Professional HVAC services for your home and business.",
+    "ctaText": "Get a Quote",
+    "backgroundImage": "/assets/hero-bg.jpg"
+  },
+  "about": {
+    "title": "About bettaHVAC",
+    "description": "With years of experience, bettaHVAC provides top-tier heating, ventilation, and air conditioning services. We are dedicated to delivering reliable, efficient, and cost-effective comfort solutions."
+  },
+  "services": [
+    {
+      "id": "ac-repair",
+      "title": "A/C Repair",
+      "description": "Fast and reliable air conditioning repair services to keep you cool."
+    },
+    {
+      "id": "heating-installation",
+      "title": "Heating Installation",
+      "description": "Expert installation of energy-efficient heating systems."
+    },
+    {
+      "id": "maintenance",
+      "title": "Preventative Maintenance",
+      "description": "Regular maintenance to extend the life of your equipment and save on energy costs."
+    }
+  ],
+  "reviewsData": {
+    "averageRating": 4.8,
+    "totalReviews": 124,
+    "reviews": [
+      {
+        "id": "r1",
+        "author": "Jane Doe",
+        "rating": 5,
+        "text": "Excellent service! The technicians were prompt, professional, and had our A/C running perfectly in no time.",
+        "date": "2025-05-12"
+      },
+      {
+        "id": "r2",
+        "author": "John Smith",
+        "rating": 4,
+        "text": "Very knowledgeable team. They fixed our heating issue efficiently. Highly recommend bettaHVAC.",
+        "date": "2025-11-20"
+      },
+      {
+        "id": "r3",
+        "author": "Sarah Connor",
+        "rating": 5,
+        "text": "Great communication and transparent pricing. Will definitely use them again for our annual maintenance.",
+        "date": "2026-01-05"
+      }
+    ]
+  },
+  "contact": {
+    "phone": "(555) 123-4567",
+    "email": "info@bettahvac.com",
+    "address": "123 Climate Control Ave, Cool City, ST 98765"
+  }
+}
